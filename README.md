@@ -6,7 +6,7 @@ Because sometimes you want to smack a button on an Arduino across the room and h
 ## What is this?
 
 A quick PowerShell script that spins up a bare-bones `HttpListener`.  
-Hit `http://<your-pc>:8080/lock` with an HTTP GET request and Windows calls `rundll32.exe user32.dll,LockWorkStation`—instantly locking the session.
+Hit `http://<your-pc>:8080/lock` with an HTTP GET request and Windows calls `rundll32.exe user32.dll,LockWorkStation` —instantly locking the session.
 
 Perfect for hardware shenanigans or any quick-and-dirty network trigger where “security theatre” isn’t the point, speed is.
 
