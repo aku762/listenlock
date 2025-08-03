@@ -1,4 +1,3 @@
-````markdown
 # PowerShell Lock Listener 🔒
 
 Because sometimes you want to smack a button on an Arduino across the room and have your workstation slam-shut **right now**.
